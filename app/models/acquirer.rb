@@ -1,0 +1,2 @@
+class Acquirer < ApplicationRecord
+end

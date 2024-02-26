@@ -1,0 +1,2 @@
+class BusinessSubcategory < ApplicationRecord
+end
